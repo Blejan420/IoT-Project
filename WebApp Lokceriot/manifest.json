@@ -1,0 +1,13 @@
+{
+    "name": "Lokceriot",
+    "short_name": "Lok",
+    "start_url": ".",
+    "background_color":"#13CD9D",
+    "theme_color":"#0A94A9",
+    "display":"standalone",
+    "icons": [ {
+          "src": "images/ios-lock-icon-4.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        }]
+}
